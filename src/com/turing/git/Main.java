@@ -15,6 +15,7 @@ public class Main {
     }
     public void show(){
         System.out.println("show");
+        System.out.println("我是branch1添加的一句话");
     }
 
 }
